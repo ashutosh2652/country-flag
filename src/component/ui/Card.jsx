@@ -29,8 +29,7 @@ const Card = ({ country, city, population, fact }) => {
   };
 
   return (
-    // <div className="flex justify-center items-center bg-gray-900">
-    <div className="relative min-w-full h-[310px] mx-auto max-w-[300px]  ">
+    <div className="relative min-w-full h-[310px] mx-auto max-w-[300px]">
       <div
         className="absolute inset-0 -m-1 rounded-xl transition-all duration-200 max-w-[308px]"
         style={{
@@ -70,7 +69,6 @@ const Card = ({ country, city, population, fact }) => {
         </div>
       </div>
     </div>
-    // {/* </div> */}
   );
 };
 

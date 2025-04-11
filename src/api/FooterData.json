@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "🧠",
+        "title": "AI-Powered Insights"
+    },
+    {
+        "id": 2,
+        "icon": "🌐",
+        "title": "Global Access"
+    },
+    {
+        "id": 3,
+        "icon": "🔒",
+        "title": "Secure by Design"
+    }
+]

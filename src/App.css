@@ -3,6 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  background-color: black;
-}
+/* body {
+   background-image: linear-gradient(from-gray-900 via-black to-gray-800);
+} */

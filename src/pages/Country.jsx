@@ -27,6 +27,7 @@ export const Country = () => {
           population={country["population"]}
           region={country["region"]}
           capital={country["capital"][0]}
+          name={country["name"]["common"]}
         />
       ))}
     </div>

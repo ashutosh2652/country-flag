@@ -1,12 +1,8 @@
 import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { Home } from "./pages/Home";
-import { AboutUs } from "./pages/About";
-import { Contact } from "./pages/Contact";
-import { Country } from "./pages/Country";
+import { Home, AboutUs, Contact, Country, ErrorPage } from "./pages";
 import { AppLayout } from "./component/Layout/AppLayout";
-import { ErrorPage } from "./pages/ErrorPage";
-import { Rough } from "./pages/Rough";
+import { CountryDetails } from "./component/Layout/CountryDetails";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -14,7 +10,7 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
     children: [
       {
-        path: "/",
+        path: "",
         element: <Home />,
       },
       {
@@ -30,8 +26,8 @@ const router = createBrowserRouter([
         element: <Country />,
       },
       {
-        path: "rough",
-        element: <Rough />,
+        path: "country/:countryname",
+        element: <CountryDetails />,
       },
     ],
   },

@@ -7,3 +7,14 @@ const api = axios.create({
 export const getCountryData = () => {
   return api.get("/all?fields=name,population,region,capital,flags");
 };
+
+export const getCountryIndData = (name) => {
+  // console.log(name);
+
+  console.log(
+    `https://restcountries.com/v3.1/name/${name}?fullText=true&fields=name,population,region,subregion,capital,tld,currencies,languages,borders,flags`
+  );
+  return api.get(
+    `/name/${name}?fullText=true&fields=name,population,region,subregion,capital,tld,currencies,languages,borders,flags`
+  );
+};

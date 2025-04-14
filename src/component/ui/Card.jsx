@@ -57,7 +57,9 @@ const Card = ({ country, city, population, fact }) => {
         <div className="px-6 py-4 text-gray-300 space-y-4">
           <div className="flex justify-between">
             <p className="text-lg font-semibold text-gray-200">Population</p>
-            <p className="text-lg text-gray-400">{population}</p>
+            <p className="text-lg text-gray-400">
+              {population.toLocaleString()}
+            </p>
           </div>
 
           <div className="flex justify-between">

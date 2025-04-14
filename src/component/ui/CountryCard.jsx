@@ -13,7 +13,7 @@ export const CountryCard = ({ photo, population, name, region, capital }) => {
           title={`${name} country flag`}
           area-hidden="false"
           onError={(e) => {
-            e.target.onerror  = null;
+            e.target.onerror = null;
             e.target.src =
               "https://media.istockphoto.com/id/1370510829/vector/map-world-seperate-countries-blue-with-white-outline.jpg?s=612x612&w=0&k=20&c=xM11CVIE6THv9bCcr_xRXb74ZWYQYIcq3YsQB5NSF68=";
           }}
@@ -29,7 +29,7 @@ export const CountryCard = ({ photo, population, name, region, capital }) => {
           {name.length > 10 ? name.slice(0, 10) + "..." : name}
         </h1>
         <p className="mt-1 text-gray-500 dark:text-neutral-400">
-          Population: {population}
+          Population: {population.toLocaleString()}
         </p>
         <p className="mt-1 text-gray-500 dark:text-neutral-400">
           Region: {region}

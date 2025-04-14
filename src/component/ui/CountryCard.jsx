@@ -8,7 +8,20 @@ export const CountryCard = ({ photo, population, name, region, capital }) => {
         <img
           className="w-2/3 h-2/3 rounded-t-xl min-w-[143px] min-h-[98px] max-h-[100px]"
           src={photo}
-          alt=""
+          alt="countryphoto"
+          loading="lazy"
+          title={`${name} country flag`}
+          area-hidden="false"
+          onError={(e) => {
+            e.target.onerror  = null;
+            e.target.src =
+              "https://media.istockphoto.com/id/1370510829/vector/map-world-seperate-countries-blue-with-white-outline.jpg?s=612x612&w=0&k=20&c=xM11CVIE6THv9bCcr_xRXb74ZWYQYIcq3YsQB5NSF68=";
+          }}
+          style={{
+            background: "transparent",
+            aspectRatio: 3 / 2,
+          }}
+          decoding="async"
         />
       </div>
       <div className="p-4 md:p-5">

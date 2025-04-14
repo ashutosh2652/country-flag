@@ -4,209 +4,209 @@
     "country": "Japan",
     "city": "Tokyo",
     "population": 13929286,
-    "interesting_facts": "Tokyo is the largest city in the world by population, and it is known for its cutting-edge technology and fashion."
+    "interesting_facts": "Tokyo is the largest city by population and known for tech and fashion."
   },
   {
     "id": 2,
     "country": "France",
     "city": "Paris",
     "population": 2148327,
-    "interesting_facts": "Paris is known as the 'City of Lights' and is famous for its world-renowned landmarks such as the Eiffel Tower and the Louvre Museum."
+    "interesting_facts": "Paris is known for the Eiffel Tower, Louvre, and romantic charm."
   },
   {
     "id": 3,
     "country": "Australia",
     "city": "Sydney",
     "population": 5230330,
-    "interesting_facts": "Sydney is home to the iconic Sydney Opera House and the Sydney Harbour Bridge, both major symbols of Australia."
+    "interesting_facts": "Home to the Sydney Opera House and Harbour Bridge."
   },
   {
     "id": 4,
     "country": "India",
     "city": "Mumbai",
     "population": 20411000,
-    "interesting_facts": "Mumbai is the financial capital of India and is home to Bollywood, the world's largest film industry by the number of films produced."
+    "interesting_facts": "Mumbai is India's financial capital and home to Bollywood."
   },
   {
     "id": 5,
     "country": "United States",
     "city": "New York City",
     "population": 8419600,
-    "interesting_facts": "New York City is known for its iconic skyline, with landmarks like the Statue of Liberty and Times Square. It is also a global hub for culture, finance, and media."
+    "interesting_facts": "NYC is known for Times Square, Statue of Liberty, and finance."
   },
   {
     "id": 6,
     "country": "Brazil",
     "city": "Rio de Janeiro",
     "population": 6748000,
-    "interesting_facts": "Rio de Janeiro is famous for its beaches, the annual Carnival festival, and the giant Christ the Redeemer statue that overlooks the city."
+    "interesting_facts": "Famous for Carnival, beaches, and Christ the Redeemer statue."
   },
   {
     "id": 7,
     "country": "Germany",
     "city": "Berlin",
     "population": 3644826,
-    "interesting_facts": "Berlin is known for its rich history, from the Berlin Wall to its thriving art and music scene. It's a city that embraces both modernity and history."
+    "interesting_facts": "Berlin is known for the Berlin Wall and thriving art scene."
   },
   {
     "id": 8,
     "country": "Italy",
     "city": "Rome",
     "population": 2872800,
-    "interesting_facts": "Rome is home to the Vatican City, the smallest country in the world, and it houses some of the world's most famous ancient monuments, including the Colosseum."
+    "interesting_facts": "Rome houses the Colosseum and Vatican City."
   },
   {
     "id": 9,
     "country": "United Kingdom",
     "city": "London",
     "population": 8982000,
-    "interesting_facts": "London is one of the most multicultural cities in the world, with over 300 languages spoken. It's home to iconic landmarks like Buckingham Palace and the Tower of London."
+    "interesting_facts": "London has over 300 languages and famous landmarks like Buckingham Palace."
   },
   {
     "id": 10,
     "country": "South Korea",
     "city": "Seoul",
     "population": 9776000,
-    "interesting_facts": "Seoul is known for its modern architecture, vibrant street markets, and as the heart of South Korea's technology industry, including Samsung and LG."
+    "interesting_facts": "Seoul is a tech hub and home to Samsung and LG."
   },
   {
     "id": 11,
     "country": "Mexico",
     "city": "Mexico City",
     "population": 8918653,
-    "interesting_facts": "Mexico City was built on the ruins of the Aztec capital of Tenochtitlan. It's known for its rich history, culture, and vibrant food scene."
+    "interesting_facts": "Built on Aztec ruins, it's rich in culture and food."
   },
   {
     "id": 12,
     "country": "China",
     "city": "Beijing",
     "population": 21540000,
-    "interesting_facts": "Beijing is the political and cultural center of China. It is home to the Great Wall of China and the Forbidden City."
+    "interesting_facts": "Beijing is home to the Forbidden City and Great Wall."
   },
   {
     "id": 13,
     "country": "Russia",
     "city": "Moscow",
     "population": 11920000,
-    "interesting_facts": "Moscow is famous for its historic Red Square and Kremlin. It is also home to the largest number of billionaires in the world."
+    "interesting_facts": "Moscow has the Kremlin and most billionaires in one city."
   },
   {
     "id": 14,
     "country": "Egypt",
     "city": "Cairo",
     "population": 10230350,
-    "interesting_facts": "Cairo is known for its proximity to the ancient pyramids of Giza and is the largest city in the Arab world."
+    "interesting_facts": "Cairo is near the pyramids and is the Arab world's largest city."
   },
   {
     "id": 15,
     "country": "Canada",
     "city": "Toronto",
     "population": 2731571,
-    "interesting_facts": "Toronto is Canada's largest city and is known for its diverse culture, the CN Tower, and its film festival, one of the most prestigious in the world."
+    "interesting_facts": "Toronto is known for CN Tower and cultural diversity."
   },
   {
     "id": 16,
     "country": "Argentina",
     "city": "Buenos Aires",
     "population": 2890151,
-    "interesting_facts": "Buenos Aires is known for its European-style architecture, tango dancing, and its vibrant cultural scene."
+    "interesting_facts": "Known for tango, culture, and European-style architecture."
   },
   {
     "id": 17,
     "country": "South Africa",
     "city": "Cape Town",
     "population": 433688,
-    "interesting_facts": "Cape Town is famous for its stunning beaches, the Table Mountain, and the historical Robben Island where Nelson Mandela was imprisoned."
+    "interesting_facts": "Home to Table Mountain and Robben Island."
   },
   {
     "id": 18,
     "country": "Spain",
     "city": "Madrid",
     "population": 3223334,
-    "interesting_facts": "Madrid is home to some of the most famous art museums in the world, such as the Prado Museum and Reina Sofia."
+    "interesting_facts": "Madrid has world-famous museums like Prado and Reina Sofia."
   },
   {
     "id": 19,
     "country": "Thailand",
     "city": "Bangkok",
     "population": 8290000,
-    "interesting_facts": "Bangkok is known for its vibrant street life, cultural landmarks, and floating markets."
+    "interesting_facts": "Bangkok is known for street life, landmarks, and floating markets."
   },
   {
     "id": 20,
     "country": "Turkey",
     "city": "Istanbul",
     "population": 15029231,
-    "interesting_facts": "Istanbul is unique for straddling two continents, Europe and Asia. It is home to the historic Hagia Sophia and Topkapi Palace."
+    "interesting_facts": "Istanbul spans Europe and Asia with rich historic sites."
   },
   {
     "id": 21,
     "country": "Indonesia",
     "city": "Jakarta",
     "population": 10325000,
-    "interesting_facts": "Jakarta is Indonesia’s capital and is known for its bustling markets, vibrant nightlife, and as the economic and political center of the country."
+    "interesting_facts": "Jakarta is Indonesia’s capital and economic center."
   },
   {
     "id": 22,
     "country": "United Arab Emirates",
     "city": "Dubai",
     "population": 3331426,
-    "interesting_facts": "Dubai is known for its luxurious shopping malls, ultramodern architecture, and man-made islands."
+    "interesting_facts": "Dubai is known for luxury shopping, skyscrapers, and man-made islands."
   },
   {
     "id": 23,
     "country": "Malaysia",
     "city": "Kuala Lumpur",
     "population": 1762000,
-    "interesting_facts": "Kuala Lumpur is home to the Petronas Towers, which were the tallest buildings in the world from 1998 to 2004."
+    "interesting_facts": "Famous for the Petronas Towers and urban skyline."
   },
   {
     "id": 24,
     "country": "Vietnam",
     "city": "Ho Chi Minh City",
     "population": 8890000,
-    "interesting_facts": "Ho Chi Minh City, formerly known as Saigon, is famous for its French colonial architecture and vibrant street food culture."
+    "interesting_facts": "Known for French architecture and street food."
   },
   {
     "id": 25,
     "country": "Colombia",
     "city": "Bogotá",
     "population": 7410863,
-    "interesting_facts": "Bogotá is situated high in the Andes and is known for its rich cultural history and the Gold Museum, which contains one of the world's largest collections of pre-Hispanic gold artifacts."
+    "interesting_facts": "Bogotá has the Gold Museum and rich Andean culture."
   },
   {
     "id": 26,
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "population": 7100000,
-    "interesting_facts": "Riyadh is the capital of Saudi Arabia and is known for its modern architecture, business centers, and being a key financial hub in the Middle East."
+    "interesting_facts": "Riyadh is a modern Middle Eastern business center."
   },
   {
     "id": 27,
     "country": "Pakistan",
     "city": "Karachi",
     "population": 14910352,
-    "interesting_facts": "Karachi is the financial capital of Pakistan and one of the largest cities in the world, known for its deep cultural roots and bustling markets."
+    "interesting_facts": "Karachi is Pakistan's financial hub and cultural heart."
   },
   {
     "id": 28,
     "country": "Chile",
     "city": "Santiago",
     "population": 6680000,
-    "interesting_facts": "Santiago is Chile's capital and is surrounded by the Andes Mountains. The city is known for its wineries and vibrant arts scene."
+    "interesting_facts": "Santiago is surrounded by the Andes and known for wine."
   },
   {
     "id": 29,
     "country": "Nigeria",
     "city": "Lagos",
     "population": 23450000,
-    "interesting_facts": "Lagos is the largest city in Nigeria and one of the fastest-growing cities in the world. It is also a major financial center in Africa."
+    "interesting_facts": "Lagos is Africa's largest city and financial center."
   },
   {
     "id": 30,
     "country": "Nigeria",
     "city": "Lagos",
     "population": 23450000,
-    "interesting_facts": "Lagos is the largest city in Nigeria and one of the fastest-growing cities in the world. It is also a major financial center in Africa."
+    "interesting_facts": "Lagos is Africa's largest city and financial center."
   }
 ]

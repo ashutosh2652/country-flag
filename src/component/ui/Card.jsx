@@ -62,7 +62,7 @@ const Card = ({ country, city, population, fact }) => {
             </p>
           </div>
 
-          <div className="flex justify-between">
+          <div className="flex justify-between gap-4">
             <p className="text-lg font-semibold text-gray-200">
               Interesting Facts
             </p>

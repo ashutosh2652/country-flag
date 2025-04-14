@@ -11,7 +11,7 @@ export const AboutUs = () => {
           <Card
             country={countries.country}
             city={countries.city}
-            fact={countries.fact}
+            fact={countries.interesting_facts}
             population={countries.population}
             key={countries.id}
           />
